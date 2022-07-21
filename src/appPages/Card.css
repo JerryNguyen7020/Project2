@@ -1,0 +1,137 @@
+#nav_bar{
+    background-size: cover;
+    width: 100%;
+    min-height: 75px;
+    position: relative;
+    color: white;
+    align-items: center;
+    align-content: center;
+  }
+  .nav-link {
+    text-decoration-line: none;
+    color: white;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-bottom: .5rem;
+    font-size: 1.70rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+  }
+  .nav-link:hover {
+    color: white;
+  }
+  #endOfPage {
+    position: relative;
+    height: 325px;
+    background-color: #A0BAC6;
+    align-items: center;
+    color: #24364C;
+  }
+  #shopInfo {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  #terms {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  a {
+    text-decoration-line: none;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #24364C;
+  }
+  a:hover {
+    color: #24364C;
+  }
+  img {
+    width: 40px;
+    height: 40px;
+  }
+  #follow {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  #body {
+    width: 100%;
+    height: 1186px;
+  }
+  #state {
+    width: 40%;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: bolder;
+  }
+  #leftCheckout {
+    width: 98%;
+    height: 700px;
+    background-color: white;
+    opacity: 0.88;
+  }
+  #rightCheckout {
+    width: 98%;
+    height: 400px;
+    background-color: white;
+    opacity: 0.88;
+  }
+  #header {
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    color: #24364C;
+  }
+  p {
+    font-family: 'Inter', sans-serif;
+    color: #24364C;
+    font-weight: bolder;
+  }
+  #Input {
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+  }
+  #smallInput {
+    width: 40%;
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+  }
+  #smallInput:focus {
+    box-shadow: none;
+  }
+  #Input:focus {
+    box-shadow: none;
+  }
+  #preNavigation {
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    color: #24364C;
+    text-decoration-line: none;
+    font-size: 1.25rem;
+  }
+  #preNavigation:hover{
+    color: #24364C;
+  }
+  #conNavigation {
+    width: 40%;
+    background-color: #24364C;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    font-size: 1.25rem;
+  }
+  #conNavigation:focus {
+    box-shadow: none;
+  }
+  #nav {
+    margin-top: 2rem;
+  }
+  #billingInfo {
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    color: #24364C;
+    font-size: 1.5rem;
+  }

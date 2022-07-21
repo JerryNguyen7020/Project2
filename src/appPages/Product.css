@@ -1,0 +1,165 @@
+#nav_bar{
+    background-size: cover;
+    width: 100%;
+    min-height: 75px;
+    position: relative;
+    color: white;
+    align-items: center;
+    align-content: center;
+  }
+  .nav-link {
+    text-decoration-line: none;
+    color: white;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-bottom: .5rem;
+    font-size: 1.70rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+  }
+  .nav-link:hover {
+    color: white;
+  }
+  #body {
+    background-color: white;
+    height: 785px;
+  }
+  #endOfPage {
+    position: relative;
+    height: 325px;
+    background-color: #A0BAC6;
+    align-items: center;
+    color: #24364C;
+  }
+  #shopInfo {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  #terms {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  a {
+    text-decoration-line: none;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #24364C;
+  }
+  a:hover {
+    color: #24364C;
+  }
+  img {
+    width: 40px;
+    height: 40px;
+  }
+  #follow {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  #proImage {
+    margin-top: 6rem;
+    width: 449px;
+    height: 641px;
+  }
+  #ori {
+    font-size: 1.5rem;
+    color: #24364C;
+    opacity: 0.5;
+  }
+  #sale {
+    font-size: 2rem;
+    color: #24364C;
+  }
+  #proName {
+    font-family: 'Inter', sans-serif;
+    color: #24364C;
+    font-weight: bold;
+  }
+  #size {
+    font-family: 'Inter', sans-serif;
+    color: #24364C;
+    font-weight: bold;
+    margin-top: 4rem;
+  }
+  #numSize {
+    width: 7rem;
+    background-color: white;
+    cursor: pointer;
+    padding: 0;
+    color: #24364C;
+    margin-left: 0px;
+    font-weight: bolder;
+    padding-left: .5rem;
+  }
+  #numSize:focus {
+    box-shadow: none;
+  }
+  option {
+    font-weight: bolder;
+  }
+  #quantityLabel {
+    font-family: 'Inter', sans-serif;
+    color: #24364C;
+    font-weight: bolder;
+  }
+  #quantity {
+    border: 2px solid black;
+    border-color: #24364C;
+    color: #24364C;
+  }
+  #quantity:focus {
+    border: 2px solid black;
+    border-color: #24364C;
+  }
+  #colorBox {
+    margin: 10px;
+    width: 32px;
+    height: 32px;
+  }
+  #color {
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    color: #24364C;
+    margin-left: 1rem;
+  }
+  #add {
+    width: 8rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: #24364C;
+    margin-top: 2rem;
+  }
+  #addCart:focus {
+    box-shadow: none;
+  }
+  #buy {
+    width: 8rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: #FF812E;
+    margin-top: 2rem;
+  }
+  #productInfo {
+    margin-top: 6rem;
+  }
+  #more {
+    background-color: white;
+    height: 400px;
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: #24364C;
+    font-size: 1.75rem;
+    padding-left: 5rem;
+  }
+  #morePro {
+    margin-top: 1.5rem;
+    width: 285px;
+    height: 256px;
+  }

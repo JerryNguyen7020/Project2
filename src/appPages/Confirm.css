@@ -1,0 +1,102 @@
+#nav_bar{
+    background-size: cover;
+    width: 100%;
+    min-height: 75px;
+    position: relative;
+    color: white;
+    align-items: center;
+    align-content: center;
+}
+.nav-link {
+    text-decoration-line: none;
+    color: white;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-bottom: .5rem;
+    font-size: 1.70rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+.nav-link:hover {
+    color: white;
+}
+#endOfPage {
+    position: relative;
+    height: 325px;
+    background-color: #A0BAC6;
+    align-items: center;
+    color: #24364C;
+}
+#shopInfo {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+#terms {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+a {
+    text-decoration-line: none;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #24364C;
+}
+a:hover {
+    color: #24364C;
+}
+img {
+    width: 40px;
+    height: 40px;
+}
+#follow {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+#body {
+    background-color: blue;
+    height: 986px;
+}
+#state {
+    width: 40%;
+    color: #24364C;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+#thank {
+    font-family: 'Inter', sans-serif;
+    color: #24364C;
+    font-weight: bolder;
+    font-size: 3rem;
+    margin-left: 3rem;
+    margin-top: 3rem;
+}
+#sendEmail {
+    width: 20%;
+    background-color: #24364C;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    margin-left: 4rem;
+    margin-top: 3rem;
+}
+#sendEmail:focus {
+    box-shadow: none;
+}
+#suggestion {
+    font-family: 'Inter', sans-serif;
+    color: #24364C;
+    font-weight: bolder;
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-left: 3rem;
+}
+#morePro {
+    margin-top: 1.5rem;
+    width: 285px;
+    height: 256px;
+}

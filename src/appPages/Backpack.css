@@ -1,0 +1,141 @@
+#nav_bar{
+    background-size: cover;
+    width: 100%;
+    min-height: 75px;
+    position: relative;
+    color: white;
+    align-items: center;
+    align-content: center;
+}
+.nav-link {
+    text-decoration-line: none;
+    color: white;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-bottom: .5rem;
+    font-size: 1.70rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+.nav-link:hover {
+    color: white;
+}
+#mainBody {
+    position: relative;
+    height: 1186px;
+    background-color: white;
+}
+#endOfPage {
+    position: relative;
+    height: 325px;
+    background-color: #A0BAC6;
+    align-items: center;
+    color: #24364C;
+}
+#shopInfo {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+#terms {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+a {
+    text-decoration-line: none;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #24364C;
+}
+a:hover {
+    color: #24364C;
+}
+img {
+    width: 40px;
+    height: 40px;
+}
+#follow {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+#state {
+    width: 40%;
+    color: #24364C;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    color: #24364C;
+    margin-left: 2rem;
+}
+#headers {
+    margin-top: 3rem;
+    font-family: 'Inter', sans-serif;
+    color: #24364C;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+#addedPro {
+    margin-top: 4rem;
+}
+#product {
+    width: 250px;
+    height: 225px;
+}
+#quantity {
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    color: #24364C;
+    font-size: 1.5rem;
+}
+#price {
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    color: #24364C;
+    font-size: 1.5rem;
+}
+#couponInput {
+    width: 50%;
+}
+#couponInput:focus {
+    box-shadow: none;
+}
+#applyCoupon {
+    width: 30%;
+    background-color: #24364C;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    margin-left: 1rem;
+}
+#total {
+    background-color: #F2F1F1;
+    width: 100%;
+    height: 198px;
+    border-radius: .5rem;
+}
+#tolPrice{
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    font-size: 2rem;
+    color: #24364C;
+    margin-left: 1px;
+}
+#conNavigation {
+    margin-left: 5.2rem;
+    width: 40%;
+    background-color: #24364C;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    font-size: 1.25rem;
+}
+#conNavigation:focus {
+    box-shadow: none;
+}

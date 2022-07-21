@@ -1,0 +1,127 @@
+#nav_bar{
+    background-size: cover;
+    width: 100%;
+    min-height: 75px;
+    position: relative;
+    color: white;
+    align-items: center;
+    align-content: center;
+}
+.nav-link {
+    text-decoration-line: none;
+    color: white;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-bottom: .5rem;
+    font-size: 1.70rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+.nav-link:hover {
+    color: white;
+}
+.d-block {
+    height: 100vh;
+    width: auto;
+}
+#summerSale {
+    position: relative;
+    height: 1162px;
+    background-color: #FF812E;
+    align-items: center;
+}
+.summerHeader {
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+    margin-top: 7rem;
+}
+.saleHeader {
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+
+}
+.summerText{
+    font-size: 125pt;
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+}
+.saleText {
+    font-size: 175pt;
+    line-height: 50%;
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+}
+#saleItem {
+    margin-top: 15rem;
+    padding-left: 3.5rem;
+}
+.saleShoes {
+    position: absolute;
+    width: 293px;
+    height:383px;
+}
+#trendingSale {
+    position: relative;
+    height: 873px;
+    background-color: #265180;
+}
+.trendingShoes {
+    width: 446px;
+    height: 668px;
+    display: block;
+    margin: auto;
+}
+#picture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#trendingText {
+    font-family: 'Open Sans', sans-serif;
+    color: #FF812E;
+    font-weight: bolder;
+    font-size: 60pt;
+    line-height: 85%;
+}
+#trending {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#endOfPage {
+    position: relative;
+    height: 325px;
+    background-color: #A0BAC6;
+    align-items: center;
+    color: #24364C;
+}
+#shopInfo {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+#terms {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+a {
+    text-decoration-line: none;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #24364C;
+}
+a:hover {
+    color: #24364C;
+}
+img {
+    width: 40px;
+    height: 40px;
+}
+#follow {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}

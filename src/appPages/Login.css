@@ -1,0 +1,58 @@
+#nav_bar{
+    background-size: cover;
+    width: 100%;
+    min-height: 75px;
+    position: relative;
+    color: white;
+    align-items: center;
+    align-content: center;
+}
+.nav-link {
+    text-decoration-line: none;
+    color: white;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-bottom: .5rem;
+    font-size: 1.70rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+.nav-link:hover {
+    color: white;
+}
+#body {
+    background-image: url("./images/login_background.jpg");
+    height: 1186px;
+}
+#login {
+    background-color: white;
+    width: 35%;
+    height: 400px;
+}
+#header {
+    font-family: 'Inter', sans-serif;
+    color: #24364C;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+#username {
+    font-family: 'Inter', sans-serif;
+    color: #24364C;
+    font-weight: bolder;
+    font-size: 1rem;
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
+#textInput {
+    width: 95%;
+}
+#loginButton {
+    margin-top: 1rem;
+    width: 15%;
+    background-color: #24364C;
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    font-size: 1rem;
+    color: white;
+    border-radius: 0.2rem;
+}

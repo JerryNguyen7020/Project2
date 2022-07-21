@@ -1,0 +1,114 @@
+#nav_bar{
+    background-size: cover;
+    width: 100%;
+    min-height: 75px;
+    position: relative;
+    color: white;
+    align-items: center;
+    align-content: center;
+  }
+  .nav-link {
+    text-decoration-line: none;
+    color: white;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-bottom: .5rem;
+    font-size: 1.70rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+  }
+  .nav-link:hover {
+    color: white;
+  }
+  #endOfPage {
+    position: relative;
+    height: 325px;
+    background-color: #A0BAC6;
+    align-items: center;
+    color: #24364C;
+  }
+  #shopInfo {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  #terms {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  a {
+    text-decoration-line: none;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #24364C;
+  }
+  a:hover {
+    color: #24364C;
+  }
+  img {
+    width: 40px;
+    height: 40px;
+  }
+  #follow {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  #mainBody {
+    position: relative;
+    background-color: white;
+    height: 1185px;
+  }
+  #pic {
+    width: 331px;
+    height: 374px;
+    margin-left: 0rem;
+    margin-top: 3rem;
+  }
+  .row {
+    width: 100%;
+  }
+  #namePrice {
+    margin-left: 1rem;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    color: #24364C;
+    font-weight: bolder;
+  }
+  #filterHeader {
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    color: #24364C;
+    font-weight: bolder;
+  }
+  label {
+    font-family: 'Inter', sans-serif;
+    font-size: .75rem;
+    color: #24364C;
+    font-weight: bolder;
+    margin-left: .5rem;
+  }
+  #separate {
+    margin-left: 1rem;
+    color: #24364C;
+    opacity: 50%;
+    font-weight: bolder;
+  }
+  #applyFilter {
+    width: 5rem;
+    background-color: #265180;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Inter', sans-serif;
+    margin-left: 5rem;
+  }
+  #applyFilter:focus {
+    background-color: #265180;
+    box-shadow: none;
+  }
+  .page-link {
+    font-family: 'Inter', sans-serif;
+    color: #265180;
+  }
